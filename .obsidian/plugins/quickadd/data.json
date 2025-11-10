@@ -5,7 +5,7 @@
       "name": "add post",
       "type": "Template",
       "command": false,
-      "templatePath": "_template/add_hugo_posts.md.md",
+      "templatePath": "_template/add_hugo_posts.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{name}}/index"
@@ -35,7 +35,7 @@
       "name": "add moment",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "_template/add_hugo_moments.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
