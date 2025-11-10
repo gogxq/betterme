@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/唐朝诡事录/index.md",
+                "file": "content/posts/测试文章/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/唐朝诡事录/index.md",
+                "file": "content/posts/测试文章/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/唐朝诡事录/index.md",
+                "file": "content/posts/测试文章/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/唐朝诡事录/index.md",
+                "file": "content/posts/测试文章/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,6 +183,8 @@
   "active": "c3f16f69b6ef5e96",
   "lastOpenFiles": [
     "content/posts/唐朝诡事录/index.md",
+    "content/posts/测试文章/index.md",
+    "content/posts/测试文章",
     "content/posts/唐朝诡事录",
     "public/posts/唐朝诡事录/index.html",
     "public/posts/唐朝诡事录",
@@ -193,7 +195,6 @@
     "public/assets/css/stylesheet.343cc480b9ffc8f04ccbe5e968ad674880cab773ec19905e93033065c1e7a804.css",
     "public/assets/css",
     "public/assets",
-    "content/posts/唐朝柜式撸",
     "content/posts/唐朝柜式撸.md",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
