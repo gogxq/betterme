@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/测试文章/index.md",
+                "file": "_template/add_hugo_posts.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "add_hugo_posts.md"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/测试文章/index.md",
+                "file": "_template/add_hugo_posts.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "add_hugo_posts.md 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/测试文章/index.md",
+                "file": "_template/add_hugo_posts.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "add_hugo_posts.md 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/测试文章/index.md",
+                "file": "_template/add_hugo_posts.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "add_hugo_posts.md 的大纲"
             }
           },
           {
@@ -182,6 +182,10 @@
   },
   "active": "c3f16f69b6ef5e96",
   "lastOpenFiles": [
+    "_template/add_hugo_moments.md.md",
+    "_template/add_hugo_posts.md.md",
+    "content/posts/唐朝诡事录/index.md",
+    "content/posts/测试文章/index.md",
     "public/tags/index.xml",
     "public/index.xml",
     "public/posts/index.xml",
@@ -192,9 +196,6 @@
     "public/posts/page/1/index.html",
     "public/posts/page/1",
     "public/assets/css/stylesheet.343cc480b9ffc8f04ccbe5e968ad674880cab773ec19905e93033065c1e7a804.css",
-    "public/posts/page",
-    "content/posts/唐朝诡事录/index.md",
-    "content/posts/测试文章/index.md",
     "content/posts/唐朝柜式撸/index.md",
     "content/posts/唐朝柜式撸.md",
     "themes/PaperMod/images/tn.png",
@@ -204,8 +205,6 @@
     "content/posts/hello-world.md",
     "layouts/partials/post_meta.html.md",
     "content/posts/测试/index.md",
-    "layouts/未命名.md",
-    "_template/add_hugo_moments.md.md",
-    "_template/add_hugo_posts.md.md"
+    "layouts/未命名.md"
   ]
 }

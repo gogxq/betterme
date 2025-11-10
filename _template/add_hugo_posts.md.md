@@ -1,6 +1,6 @@
 ---
 title:
-  "{ name }":
+  {{name}}
 slug:
 date:
 lastmod:
