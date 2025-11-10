@@ -37,11 +37,11 @@
       "command": false,
       "templatePath": "_template/add_hugo_moments.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{name}}/index"
       },
       "folder": {
-        "enabled": false,
+        "enabled": true,
         "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

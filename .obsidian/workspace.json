@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0370386ed47a364b",
+        "id": "5ef0aab43d635dba",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f16f69b6ef5e96",
+            "id": "9d7a5a95d292d132",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/如何专注/index.md",
+                "file": "content/posts/如何进入思考/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/如何专注/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/如何专注/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/如何专注/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -180,10 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3f16f69b6ef5e96",
+  "active": "9d7a5a95d292d132",
   "lastOpenFiles": [
-    "content/posts/唐朝诡事录/index.md",
     "content/posts/如何专注/index.md",
+    "content/posts/如何进入思考/index.md",
+    "content/posts/如何进入思考",
+    "content/posts/唐朝诡事录/index.md",
+    "_template/add_hugo_moments.md",
+    "时刻/index.md",
+    "时刻",
     "content/posts/如何专注",
     "content/posts/唐朝诡事录",
     "content/posts/weishenmedabukai/index.md",
@@ -193,12 +195,9 @@
     "public/posts/唐朝诡事录",
     "public/posts/weishenmedabukai/index.html",
     "public/posts/weishenmedabukai",
-    "public/categories/默认/index.xml",
-    "public/posts/test/index.html",
     "content/posts/test.md",
     "content/posts/index.md",
     "_template/add_hugo_posts.md.md",
-    "_template/add_hugo_moments.md",
     "_template/add_hugo_posts.md",
     "_template/add_hugo_moments.md.md",
     "content/posts/测试文章/index.md",
