@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/唐朝诡事录/index.md",
+                "file": "content/posts/如何专注/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/唐朝诡事录/index.md",
+                "file": "content/posts/如何专注/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/唐朝诡事录/index.md",
+                "file": "content/posts/如何专注/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/唐朝诡事录/index.md",
+                "file": "content/posts/如何专注/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,6 +183,8 @@
   "active": "c3f16f69b6ef5e96",
   "lastOpenFiles": [
     "content/posts/唐朝诡事录/index.md",
+    "content/posts/如何专注/index.md",
+    "content/posts/如何专注",
     "content/posts/唐朝诡事录",
     "content/posts/weishenmedabukai/index.md",
     "public/posts/测试文章/index.html",
@@ -193,7 +195,6 @@
     "public/posts/weishenmedabukai",
     "public/categories/默认/index.xml",
     "public/posts/test/index.html",
-    "public/posts/test",
     "content/posts/test.md",
     "content/posts/index.md",
     "_template/add_hugo_posts.md.md",
