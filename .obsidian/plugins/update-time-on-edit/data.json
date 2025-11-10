@@ -1,5 +1,5 @@
 {
-  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "dateFormat": "yyyy-MM-dd'T'HH:mm:ss",
   "enableCreateTime": true,
   "headerUpdated": "lastmod",
   "headerCreated": "date",
@@ -12,6 +12,6 @@
   "fileHashMap": {
     "_template/add_hugo_posts.md.md": "7904bd7170d46be9b6530cdd60e8967e014122473292d8589f8f82a03c798a1f",
     "_template/add_hugo_moments.md.md": "086a217fd61a2a4d702f1c1f616490d805b3188b4c48869881b919398abfb7a5",
-    "content/posts/唐朝柜式撸/index.md": "b2f021b252932cf9178db0ffbec4cd100c0cb76567a2575df129c2888f1c9fb8"
+    "content/posts/唐朝诡事录/index.md": "88789e7eda0909c5a77c284eecedf8a3531ea18fb1f408e1546ead0d0bfece15"
   }
 }

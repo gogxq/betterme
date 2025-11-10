@@ -2,8 +2,8 @@
 title:
   "{ name }":
 slug:
-date: 2025-11-10T12:23
-lastmod: 2025-11-10T12:23
+date: 2025-11-10T12:30:46
+lastmod: 2025-11-10T12:30:53
 tags:
 categories:
 series:
@@ -12,5 +12,4 @@ draft: false
 created: 2025-11-10T11:33
 updated: 2025-11-10T11:33
 ---
-
-测试能不能用
+amtf
