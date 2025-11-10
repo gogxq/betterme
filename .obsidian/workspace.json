@@ -182,16 +182,28 @@
   },
   "active": "b638e6ec1d0f429f",
   "lastOpenFiles": [
+    "themes/PaperMod/theme.toml",
+    "themes/PaperMod/layouts/partials/templates/_funcs/get-page-images.html",
+    "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
+    "themes/PaperMod/layouts/partials/templates/schema_json.html",
+    "themes/PaperMod/layouts/partials/templates/opengraph.html",
+    "themes/PaperMod/layouts/partials/templates/_funcs",
+    "themes/PaperMod/layouts/_default/_markup/render-image.html",
+    "themes/PaperMod/layouts/partials/translation_list.html",
+    "themes/PaperMod/layouts/partials/toc.html",
+    "themes/PaperMod/layouts/partials/templates",
+    "themes/PaperMod/layouts/partials/svg.html",
+    "themes/PaperMod/images/tn.png",
+    "themes/PaperMod/images/screenshot.png",
+    "themes/PaperMod/README.md",
+    "public/images/gohugo-default-sample-hero-image.jpg",
+    "content/posts/hello-world.md",
     "content/posts/唐朝柜式撸.md",
     "content/posts/唐朝诡事录/index.md",
-    "content/posts/唐朝诡事录",
     "layouts/partials/post_meta.html.md",
     "content/posts/测试/index.md",
-    "layouts/partials",
     "layouts/未命名.md",
-    "content/posts/测试",
     "_template/add_hugo_moments.md.md",
-    "_template/add_hugo_posts.md.md",
-    "_template"
+    "_template/add_hugo_posts.md.md"
   ]
 }
