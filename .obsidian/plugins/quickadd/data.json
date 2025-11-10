@@ -8,7 +8,7 @@
       "templatePath": "_template/add_hugo_posts.md.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{name}}/index"
+        "format": "{{name}}"
       },
       "folder": {
         "enabled": true,
