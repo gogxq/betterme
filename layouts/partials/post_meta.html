@@ -34,6 +34,6 @@
 {{- /* 输出所有元信息，用 · 分隔，并包裹在左对齐的容器中 */ -}}
 {{- with ($scratch.Get "meta") }}
   <div class="meta-left-align">
-    {{- delimit . "&nbsp;&nbsp;·&nbsp;&nbsp;" | safeHTML -}}
-  </div>
+        {{- delimit . "&nbsp;&nbsp;·&nbsp;&nbsp;" | safeHTML -}}
+      </div>
 {{- end }}
