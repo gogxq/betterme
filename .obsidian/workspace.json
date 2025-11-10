@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ef2863c4e26c366",
+        "id": "0370386ed47a364b",
         "type": "tabs",
         "children": [
           {
-            "id": "df74fc8b482e812e",
+            "id": "c3f16f69b6ef5e96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/唐朝柜式撸.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "唐朝柜式撸"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/唐朝柜式撸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "唐朝柜式撸 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/唐朝柜式撸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "唐朝柜式撸 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/唐朝柜式撸.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "唐朝柜式撸 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -180,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df74fc8b482e812e",
+  "active": "c3f16f69b6ef5e96",
   "lastOpenFiles": [
     "content/posts/唐朝柜式撸.md",
     "layouts/partials/post_meta.html",
