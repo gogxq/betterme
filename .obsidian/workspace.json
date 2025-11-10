@@ -11,14 +11,10 @@
             "id": "c3f16f69b6ef5e96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_template/add_hugo_posts.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "add_hugo_posts.md"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_template/add_hugo_posts.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "add_hugo_posts.md 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_template/add_hugo_posts.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "add_hugo_posts.md 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_template/add_hugo_posts.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "add_hugo_posts.md 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -182,8 +175,10 @@
   },
   "active": "c3f16f69b6ef5e96",
   "lastOpenFiles": [
-    "_template/add_hugo_moments.md.md",
     "_template/add_hugo_posts.md.md",
+    "_template/add_hugo_moments.md",
+    "_template/add_hugo_posts.md",
+    "_template/add_hugo_moments.md.md",
     "content/posts/唐朝诡事录/index.md",
     "content/posts/测试文章/index.md",
     "public/tags/index.xml",

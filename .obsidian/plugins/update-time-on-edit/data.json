@@ -10,8 +10,6 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "_template/add_hugo_posts.md.md": "7904bd7170d46be9b6530cdd60e8967e014122473292d8589f8f82a03c798a1f",
-    "_template/add_hugo_moments.md.md": "086a217fd61a2a4d702f1c1f616490d805b3188b4c48869881b919398abfb7a5",
     "content/posts/唐朝诡事录/index.md": "88789e7eda0909c5a77c284eecedf8a3531ea18fb1f408e1546ead0d0bfece15",
     "content/posts/测试文章/index.md": "cb1873a39a5c2c3d53447d47ce85ab93529cc7ee4a4372ff2f433a5ab6f855f4"
   }
