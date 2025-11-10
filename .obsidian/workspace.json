@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da8790fb9424f045",
+        "id": "8ef2863c4e26c366",
         "type": "tabs",
         "children": [
           {
-            "id": "b638e6ec1d0f429f",
+            "id": "df74fc8b482e812e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14eb8e5ef9661955",
+  "active": "df74fc8b482e812e",
   "lastOpenFiles": [
+    "content/posts/唐朝柜式撸.md",
     "layouts/partials/post_meta.html",
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/_funcs/get-page-images.html",
@@ -192,13 +193,11 @@
     "themes/PaperMod/layouts/_default/_markup/render-image.html",
     "themes/PaperMod/layouts/partials/translation_list.html",
     "themes/PaperMod/layouts/partials/toc.html",
-    "themes/PaperMod/layouts/partials/templates",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md",
     "public/images/gohugo-default-sample-hero-image.jpg",
     "content/posts/hello-world.md",
-    "content/posts/唐朝柜式撸.md",
     "content/posts/唐朝诡事录/index.md",
     "layouts/partials/post_meta.html.md",
     "content/posts/测试/index.md",
