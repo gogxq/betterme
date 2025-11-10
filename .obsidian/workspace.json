@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b638e6ec1d0f429f",
+  "active": "14eb8e5ef9661955",
   "lastOpenFiles": [
+    "layouts/partials/post_meta.html",
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/_funcs/get-page-images.html",
     "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
@@ -192,7 +193,6 @@
     "themes/PaperMod/layouts/partials/translation_list.html",
     "themes/PaperMod/layouts/partials/toc.html",
     "themes/PaperMod/layouts/partials/templates",
-    "themes/PaperMod/layouts/partials/svg.html",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md",
