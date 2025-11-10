@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c35900864eb08f8",
+        "id": "ac5fa8c9c070e819",
         "type": "tabs",
         "children": [
           {
-            "id": "ba1f9a3a9f35cc4e",
+            "id": "990437a4f1cf916c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/唐朝诡事录/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/唐朝诡事录/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/唐朝诡事录/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "index 的出链列表"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/posts/唐朝诡事录/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -173,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14eb8e5ef9661955",
+  "active": "990437a4f1cf916c",
   "lastOpenFiles": [
+    "content/posts/唐朝诡事录/index.md",
+    "content/posts/唐朝诡事录",
     "layouts/partials/post_meta.html.md",
     "content/posts/测试/index.md",
     "layouts/partials",
