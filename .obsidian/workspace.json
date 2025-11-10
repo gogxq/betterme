@@ -11,10 +11,14 @@
             "id": "c3f16f69b6ef5e96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/唐朝柜式撸/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/唐朝柜式撸/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/唐朝柜式撸/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "index 的出链列表"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/posts/唐朝柜式撸/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -175,6 +182,8 @@
   },
   "active": "c3f16f69b6ef5e96",
   "lastOpenFiles": [
+    "content/posts/唐朝柜式撸/index.md",
+    "content/posts/唐朝柜式撸",
     "content/posts/唐朝柜式撸.md",
     "layouts/partials/post_meta.html",
     "themes/PaperMod/theme.toml",
@@ -185,7 +194,6 @@
     "themes/PaperMod/layouts/partials/templates/_funcs",
     "themes/PaperMod/layouts/_default/_markup/render-image.html",
     "themes/PaperMod/layouts/partials/translation_list.html",
-    "themes/PaperMod/layouts/partials/toc.html",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md",
